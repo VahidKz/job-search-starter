@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "default_days": 3,
+  "results_per_query": 20,
+  "lanes": {
+    "global": {
+      "description": "Global",
+      "countries": [],
+      "remote_only": false,
+      "locations": [],
+      "queries": []
+    },
+    "turkey-remote": {
+      "description": "Türkiye",
+      "countries": [
+        "tr"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Turkey",
+        "Turkiye",
+        "Istanbul"
+      ],
+      "queries": []
+    },
+    "germany-relocation": {
+      "description": "Germany Relocation",
+      "countries": [
+        "de"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Germany",
+        "Berlin"
+      ],
+      "queries": []
+    },
+    "spain-relocation": {
+      "description": "Spain",
+      "countries": [
+        "es"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Spain",
+        "Barcelona",
+        "Madrid"
+      ],
+      "queries": []
+    },
+    "netherlands-relocation": {
+      "description": "Netherlands Relocation",
+      "countries": [
+        "nl"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Netherlands",
+        "Amsterdam"
+      ],
+      "queries": []
+    },
+    "belgium-relocation": {
+      "description": "Belgium Relocation and Cross-Border Remote",
+      "countries": [
+        "be"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Belgium",
+        "Brussels"
+      ],
+      "queries": []
+    },
+    "uk-relocation": {
+      "description": "United Kingdom Sponsorship",
+      "countries": [
+        "gb"
+      ],
+      "remote_only": false,
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "queries": []
+    },
+    "japan-relocation": {
+      "description": "Japan Relocation",
+      "countries": [
+        "jp"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Japan",
+        "Tokyo"
+      ],
+      "queries": []
+    },
+    "new-zealand": {
+      "description": "New Zealand Relocation",
+      "countries": [
+        "nz"
+      ],
+      "remote_only": false,
+      "locations": [
+        "New Zealand",
+        "Auckland"
+      ],
+      "queries": []
+    },
+    "australia-relocation": {
+      "description": "Australia Relocation",
+      "countries": [
+        "au"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "queries": []
+    },
+    "gulf-cyprus-relocation": {
+      "description": "Gulf and Cyprus Relocation",
+      "countries": [
+        "ae",
+        "cy",
+        "sa",
+        "qa"
+      ],
+      "remote_only": false,
+      "locations": [
+        "Dubai",
+        "UAE",
+        "Cyprus",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "queries": []
+    },
+    "worldwide-contract": {
+      "description": "Worldwide Remote and B2B",
+      "countries": [],
+      "remote_only": true,
+      "locations": [],
+      "queries": []
+    }
+  },
+  "fit_terms": {
+    "primary": [],
+    "secondary": [],
+    "domain": [],
+    "platform": []
+  },
+  "official_ats_hosts": [
+    "factorial.com",
+    "ashbyhq.com",
+    "greenhouse.io",
+    "lever.co",
+    "workable.com",
+    "recruitee.com",
+    "smartrecruiters.com",
+    "teamtailor.com",
+    "bamboohr.com",
+    "myworkdayjobs.com",
+    "jobvite.com",
+    "icims.com",
+    "jazz.co",
+    "applytojob.com",
+    "personio.de",
+    "successfactors.com",
+    "comeet.com",
+    "careers-page.com",
+    "hrmos.co",
+    "traffit.com"
+  ],
+  "aggregator_hosts": [
+    "freehire.me",
+    "linkedin.com",
+    "indeed.com",
+    "glassdoor.com",
+    "wellfound.com",
+    "arbeitnow.com",
+    "weworkremotely.com",
+    "jobgether.com",
+    "whatjobs.com",
+    "jooble.org",
+    "adzuna.com",
+    "seek.co.nz",
+    "trademe.co.nz",
+    "himalayas.app",
+    "djinni.co",
+    "getonbrd.com"
+  ]
+}

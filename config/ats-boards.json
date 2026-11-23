@@ -1,0 +1,491 @@
+{
+  "version": 1,
+  "boards": [
+    {
+      "company": "GT",
+      "kind": "ashby",
+      "slug": "gt-hq",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Wingie Enuygun Group",
+      "kind": "workable",
+      "slug": "wingieenuygun",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Passbolt",
+      "kind": "bamboohr",
+      "slug": "passbolt",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Foodics",
+      "kind": "workable",
+      "slug": "foodics",
+      "lanes": [
+        "gulf-cyprus-relocation"
+      ]
+    },
+    {
+      "company": "WonnPay FZE",
+      "kind": "bamboohr",
+      "slug": "wonnpayfze",
+      "lanes": [
+        "gulf-cyprus-relocation"
+      ]
+    },
+    {
+      "company": "Midas",
+      "kind": "lever",
+      "slug": "getmidas",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "VidRush AI Studios",
+      "kind": "ashby",
+      "slug": "vidrush",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Hilbert's AI",
+      "kind": "ashby",
+      "slug": "hilberts",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Insider One",
+      "kind": "lever",
+      "slug": "insiderone",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Sezzle",
+      "kind": "greenhouse",
+      "slug": "sezzle",
+      "lanes": [
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Speechify",
+      "kind": "greenhouse",
+      "slug": "speechify",
+      "lanes": [
+        "turkey-remote",
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Fingerprint",
+      "kind": "greenhouse",
+      "slug": "fingerprint",
+      "lanes": [
+        "turkey-remote",
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "ShippyPro",
+      "kind": "factorial",
+      "slug": "shippypro",
+      "lanes": [
+        "turkey-remote",
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "n8n",
+      "kind": "ashby",
+      "slug": "n8n",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "Doctolib",
+      "kind": "greenhouse",
+      "slug": "doctolib",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "Statista",
+      "kind": "ashby",
+      "slug": "statista",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "Future of Hotel Bookings",
+      "kind": "ashby",
+      "slug": "future-of-hotel-bookings",
+      "lanes": [
+        "germany-relocation"
+      ],
+      "enabled": false
+    },
+    {
+      "company": "Parloa",
+      "kind": "greenhouse_eu",
+      "slug": "parloa",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "think-cell",
+      "kind": "greenhouse",
+      "slug": "thinkcellsoftware",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "Clera",
+      "kind": "ashby",
+      "slug": "Clera",
+      "lanes": [
+        "germany-relocation",
+        "netherlands-relocation",
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Emidat",
+      "kind": "ashby",
+      "slug": "emidat",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "Scout24 SE",
+      "kind": "greenhouse",
+      "slug": "scout24",
+      "lanes": [
+        "germany-relocation"
+      ]
+    },
+    {
+      "company": "N26",
+      "kind": "greenhouse",
+      "slug": "n26",
+      "lanes": [
+        "germany-relocation",
+        "spain-relocation"
+      ]
+    },
+    {
+      "company": "Perk",
+      "kind": "ashby",
+      "slug": "perk",
+      "lanes": [
+        "spain-relocation",
+        "uk-relocation",
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Codeway",
+      "kind": "ashby",
+      "slug": "codeway",
+      "lanes": [
+        "spain-relocation",
+        "turkey-remote"
+      ]
+    },
+    {
+      "company": "Insify",
+      "kind": "lever",
+      "slug": "insify",
+      "lanes": [
+        "netherlands-relocation"
+      ]
+    },
+    {
+      "company": "Wypoon Technologies",
+      "kind": "lever",
+      "slug": "wypoon",
+      "lanes": [
+        "netherlands-relocation",
+        "belgium-relocation"
+      ]
+    },
+    {
+      "company": "Wireless Logic",
+      "kind": "greenhouse",
+      "slug": "wirelesslogic",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Ably",
+      "kind": "greenhouse_eu",
+      "slug": "ably30",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Junior AI",
+      "kind": "ashby",
+      "slug": "junior",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Seamflow",
+      "kind": "ashby",
+      "slug": "seamflow",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Apollo Research",
+      "kind": "lever",
+      "slug": "apolloresearch",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Scope AI",
+      "kind": "ashby",
+      "slug": "getscope",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Disguise Technologies",
+      "kind": "greenhouse",
+      "slug": "disguisetechnologiesltd",
+      "lanes": [
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "PayPay",
+      "kind": "greenhouse",
+      "slug": "paypay",
+      "lanes": [
+        "japan-relocation"
+      ]
+    },
+    {
+      "company": "Halter",
+      "kind": "ashby",
+      "slug": "halter",
+      "lanes": [
+        "new-zealand"
+      ]
+    },
+    {
+      "company": "Propellerhead",
+      "kind": "lever",
+      "slug": "propellerhead",
+      "lanes": [
+        "new-zealand"
+      ]
+    },
+    {
+      "company": "Relevance AI",
+      "kind": "ashby",
+      "slug": "relevanceai",
+      "lanes": [
+        "australia-relocation"
+      ]
+    },
+    {
+      "company": "coreflow",
+      "kind": "ashby",
+      "slug": "coreflow",
+      "lanes": [
+        "australia-relocation"
+      ]
+    },
+    {
+      "company": "Ziina",
+      "kind": "ashby",
+      "slug": "ziina",
+      "lanes": [
+        "gulf-cyprus-relocation"
+      ]
+    },
+    {
+      "company": "Ruya AI",
+      "kind": "greenhouse_eu",
+      "slug": "ruyaai",
+      "lanes": [
+        "gulf-cyprus-relocation"
+      ]
+    },
+    {
+      "company": "Wheely",
+      "kind": "greenhouse",
+      "slug": "wheely",
+      "lanes": [
+        "gulf-cyprus-relocation",
+        "uk-relocation"
+      ]
+    },
+    {
+      "company": "Plasma",
+      "kind": "ashby",
+      "slug": "plasma",
+      "lanes": [
+        "gulf-cyprus-relocation",
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Air Apps",
+      "kind": "ashby",
+      "slug": "airapps",
+      "lanes": [
+        "gulf-cyprus-relocation"
+      ]
+    },
+    {
+      "company": "Supabase",
+      "kind": "ashby",
+      "slug": "supabase",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "VRChat",
+      "kind": "lever",
+      "slug": "vrchat",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Sporty Group",
+      "kind": "greenhouse",
+      "slug": "sportygroup",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Camunda",
+      "kind": "ashby",
+      "slug": "camunda",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Checkly",
+      "kind": "ashby",
+      "slug": "checkly",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "LiveKit",
+      "kind": "ashby",
+      "slug": "livekit",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "LI.FI",
+      "kind": "ashby",
+      "slug": "li.fi",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Constructor",
+      "kind": "ashby",
+      "slug": "constructor",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "WorkHero",
+      "kind": "ashby",
+      "slug": "workhero",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Colonist",
+      "kind": "ashby",
+      "slug": "colonist",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Fueled",
+      "kind": "greenhouse",
+      "slug": "fueledcareers",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "ThirstySprout",
+      "kind": "ashby",
+      "slug": "thirstysprout",
+      "lanes": [
+        "worldwide-contract"
+      ],
+      "enabled": false
+    },
+    {
+      "company": "Tradeify",
+      "kind": "ashby",
+      "slug": "tradeify",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Mastra",
+      "kind": "ashby",
+      "slug": "Mastra",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    },
+    {
+      "company": "Railway",
+      "kind": "ashby",
+      "slug": "railway",
+      "lanes": [
+        "worldwide-contract"
+      ]
+    }
+  ]
+}

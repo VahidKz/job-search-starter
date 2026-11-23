@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "repository": "https://github.com/maccydee/job-radar.git",
+  "commit": "e108db875db11b526ef89be0c45330687097da69",
+  "default_batch_size": 200,
+  "titles": [],
+  "excluded_titles": [],
+  "fetch": {
+    "concurrency": 8,
+    "timeout": 20,
+    "retries": 2
+  },
+  "extra_sources": [],
+  "blocked_platforms": [
+    "linkedin",
+    "nhs"
+  ],
+  "source_stale_days": 8
+}

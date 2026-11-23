@@ -1,0 +1,623 @@
+{
+  "version": 1,
+  "shared_manual_sources": [
+    {
+      "name": "Reqspace",
+      "url": "https://www.reqspace.ai/companies",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search public jobs or companies, then verify on employer ATS. Do not probe private endpoints or upload documents."
+    },
+    {
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/",
+      "lanes": [
+        "*"
+      ],
+      "note": "Use native Jobs filters. Log indexed fallback separately if blocked."
+    },
+    {
+      "name": "Indeed country sites",
+      "url": "https://www.indeed.com/worldwide",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Glassdoor country sites",
+      "url": "https://www.glassdoor.com/Job/index.htm",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Relocate.me",
+      "url": "https://relocate.me/",
+      "lanes": [
+        "germany-relocation",
+        "spain-relocation",
+        "netherlands-relocation",
+        "belgium-relocation",
+        "uk-relocation",
+        "japan-relocation",
+        "new-zealand",
+        "australia-relocation",
+        "gulf-cyprus-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Working Nomads",
+      "url": "https://www.workingnomads.com/jobs",
+      "lanes": [
+        "turkey-remote",
+        "worldwide-contract"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Bright Data careers",
+      "url": "https://brightdata.com/careers",
+      "lanes": [
+        "turkey-remote",
+        "worldwide-contract"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "eDreams ODIGEO",
+      "url": "https://www.edreamsodigeocareers.com/job-category/technology/",
+      "lanes": [
+        "spain-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Emidat",
+      "url": "https://jobs.ashbyhq.com/emidat",
+      "lanes": [
+        "germany-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Scout24 SE",
+      "url": "https://www.scout24.com/en/career/jobs",
+      "lanes": [
+        "germany-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Multiverse Computing",
+      "url": "https://multiversecomputing.teamtailor.com/jobs",
+      "lanes": [
+        "spain-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Nexthink",
+      "url": "https://nexthink.com/company/careers",
+      "lanes": [
+        "spain-relocation",
+        "uk-relocation",
+        "germany-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Huspy",
+      "url": "https://revolutpeople.com/huspy/public/careers",
+      "lanes": [
+        "spain-relocation",
+        "gulf-cyprus-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Lingokids",
+      "url": "https://jobs.lingokids.com/jobs",
+      "lanes": [
+        "spain-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "N26",
+      "url": "https://n26.com/en-eu/careers",
+      "lanes": [
+        "germany-relocation",
+        "spain-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Codeway",
+      "url": "https://jobs.ashbyhq.com/codeway",
+      "lanes": [
+        "spain-relocation",
+        "turkey-remote"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Kantox",
+      "url": "https://www.kantox.com/careers",
+      "lanes": [
+        "spain-relocation",
+        "uk-relocation"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Perk",
+      "url": "https://jobs.ashbyhq.com/perk",
+      "lanes": [
+        "spain-relocation",
+        "uk-relocation",
+        "worldwide-contract"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "LinkedIn Hiring Posts",
+      "url": "https://www.linkedin.com/search/results/content/",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search native Posts and indexed recruiter or founder posts separately. Verify role, author, date and employer route."
+    },
+    {
+      "name": "Djinni",
+      "url": "https://djinni.co/jobs/",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Relocue",
+      "url": "https://relocue.com/",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    },
+    {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/",
+      "lanes": [
+        "*"
+      ],
+      "note": "Search with the active role and location filters. Verify results on the employer page."
+    }
+  ],
+  "lanes": {
+    "turkey-remote": {
+      "title": "Türkiye",
+      "cadence_days": 1,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [
+        "remotive"
+      ],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "Kariyer.net",
+          "https://www.kariyer.net/is-ilanlari",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Indeed Turkey",
+          "https://tr.indeed.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Yenibiris",
+          "https://www.yenibiris.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Secretcv",
+          "https://www.secretcv.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Kolay IK careers",
+          "https://jobs.kolayik.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "ENDigitals hiring watch",
+          "https://endigitals.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Jobgether Turkey",
+          "https://jobs.lever.co/jobgether",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Remotive Turkey",
+          "https://remotive.com/remote-jobs/turkey",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Wellfound",
+          "https://wellfound.com/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "LinkedIn Turkey",
+          "https://www.linkedin.com/jobs/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "germany-relocation": {
+      "title": "Germany Relocation",
+      "cadence_days": 1,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [
+        "arbeitnow"
+      ],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "Make it in Germany",
+          "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "GermanTechJobs",
+          "https://germantechjobs.de/en/jobs/all/visa-sponsorship",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Pegel Berlin",
+          "https://pegel.dev/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Berlin Startup Jobs",
+          "https://berlinstartupjobs.com/engineering/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Kaufland e-commerce",
+          "https://kaufland-ecommerce.com/en/jobs/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "ABOUT YOU",
+          "https://corporate.aboutyou.de/en/career/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "spain-relocation": {
+      "title": "Spain",
+      "cadence_days": 2,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "LinkedIn Spain",
+          "https://www.linkedin.com/jobs/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Indeed Spain",
+          "https://es.indeed.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "netherlands-relocation": {
+      "title": "Netherlands Relocation",
+      "cadence_days": 2,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [
+        "nl"
+      ],
+      "manual_sources": [
+        [
+          "IND public register",
+          "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "ITSync",
+          "https://www.itsync.nl/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Landing.jobs",
+          "https://landing.jobs/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "DevITJobs Netherlands",
+          "https://devitjobs.nl/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "belgium-relocation": {
+      "title": "Belgium Relocation and Cross-Border Remote",
+      "cadence_days": 2,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "VDAB International Talent",
+          "https://www.vdab.be/en/job",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "ICTjob Belgium",
+          "https://www.ictjob.be/en/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Jobat Belgium",
+          "https://www.jobat.be/en/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Indeed Belgium",
+          "https://be.indeed.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Glassdoor Belgium",
+          "https://nl.glassdoor.be/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Wypoon Technologies",
+          "https://jobs.lever.co/wypoon",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Odoo Belgium",
+          "https://www.odoo.com/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "madewithlove",
+          "https://madewithlove.com/about/careers/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Working in Belgium",
+          "https://www.working-in-belgium.be/en/home.html",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "uk-relocation": {
+      "title": "United Kingdom Sponsorship",
+      "cadence_days": 1,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [
+        "uk"
+      ],
+      "manual_sources": [
+        [
+          "UK licensed sponsors",
+          "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "REC member directory",
+          "https://www.rec.uk.com/jobseekers/member-directory",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Robert Walters Technology",
+          "https://www.robertwalters.co.uk/expertise/technology/jobs.html",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Reed Technology",
+          "https://www.reed.co.uk/jobs/technology-jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Michael Page Technology",
+          "https://www.michaelpage.co.uk/recruitment-expertise/technology",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Hays Technology",
+          "https://www.hays.co.uk/jobs/technology-jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "VisaJobs",
+          "https://visajobs.co.uk/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Stack Jobs",
+          "https://stackjobs.co.uk/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "DevITJobs UK",
+          "https://devitjobs.uk/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "japan-relocation": {
+      "title": "Japan Relocation",
+      "cadence_days": 1,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "TokyoDev",
+          "https://www.tokyodev.com/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "JapanDev",
+          "https://japan-dev.com/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Relocate.me Japan",
+          "https://relocate.me/japan",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "HRMOS",
+          "https://hrmos.co/pages",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "new-zealand": {
+      "title": "New Zealand Relocation",
+      "cadence_days": 2,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [
+        "nz"
+      ],
+      "manual_sources": [
+        [
+          "SEEK New Zealand",
+          "https://www.seek.co.nz/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Trade Me Jobs",
+          "https://www.trademe.co.nz/a/jobs/it/search",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Jora New Zealand",
+          "https://nz.jora.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Immigration NZ employer list",
+          "https://www.immigration.govt.nz/work/requirements-for-work-visas/approved-employers/accredited-employer-list/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "australia-relocation": {
+      "title": "Australia Relocation",
+      "cadence_days": 3,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "SEEK Australia",
+          "https://www.seek.com.au/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Relocate.me",
+          "https://relocate.me/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Indeed Australia",
+          "https://au.indeed.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "gulf-cyprus-relocation": {
+      "title": "Gulf and Cyprus Relocation",
+      "cadence_days": 2,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "Indeed UAE",
+          "https://ae.indeed.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "CareerFinders Cyprus",
+          "https://portal.careerfinders.com.cy/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Ziina",
+          "https://jobs.ashbyhq.com/ziina",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "FxPro",
+          "https://fxpro.bamboohr.com/careers",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "worldwide-contract": {
+      "title": "Worldwide Remote and B2B",
+      "cadence_days": 1,
+      "objective": "Search this market for the active profile. Verify employer, fit and work authorization.",
+      "public_feeds": [
+        "remotive"
+      ],
+      "sponsor_registers": [],
+      "manual_sources": [
+        [
+          "We Work Remotely",
+          "https://weworkremotely.com/categories/remote-programming-jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Remote OK",
+          "https://remoteok.com/remote-dev-jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Himalayas",
+          "https://himalayas.app/jobs",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "LaraJobs",
+          "https://larajobs.com/",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ],
+        [
+          "Hacker News Who Is Hiring",
+          "https://news.ycombinator.com/submitted",
+          "Search with the active role and location filters. Verify results on the employer page."
+        ]
+      ]
+    },
+    "global": {
+      "title": "Global",
+      "objective": "Search markets in the active profile.",
+      "cadence_days": 1,
+      "public_feeds": [
+        "remotive",
+        "arbeitnow"
+      ],
+      "sponsor_registers": [],
+      "manual_sources": []
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "version": 2,
+  "max_query_chars": 700,
+  "max_query_words": 32,
+  "role_packs": [],
+  "title_packs": [],
+  "platform_groups": [
+    {
+      "name": "startup-ats",
+      "tier": 1,
+      "cadence": "daily",
+      "platforms": [
+        {
+          "name": "Ashby",
+          "sites": [
+            "jobs.ashbyhq.com"
+          ],
+          "xray_sites": [
+            "jobs.ashbyhq.com"
+          ]
+        },
+        {
+          "name": "Greenhouse",
+          "sites": [
+            "greenhouse.io"
+          ],
+          "xray_sites": [
+            "boards.greenhouse.io",
+            "job-boards.greenhouse.io",
+            "job-boards.eu.greenhouse.io"
+          ]
+        },
+        {
+          "name": "Lever",
+          "sites": [
+            "lever.co"
+          ],
+          "xray_sites": [
+            "jobs.lever.co",
+            "jobs.eu.lever.co"
+          ]
+        },
+        {
+          "name": "Factorial",
+          "sites": [
+            "factorial.com"
+          ],
+          "xray_sites": [
+            "factorial.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "general-ats",
+      "tier": 1,
+      "cadence": "daily",
+      "platforms": [
+        {
+          "name": "SmartRecruiters",
+          "sites": [
+            "jobs.smartrecruiters.com"
+          ],
+          "xray_sites": [
+            "jobs.smartrecruiters.com"
+          ]
+        },
+        {
+          "name": "Workable",
+          "sites": [
+            "workable.com"
+          ],
+          "xray_sites": [
+            "careers.workable.com",
+            "apply.workable.com",
+            "jobs.workable.com"
+          ]
+        },
+        {
+          "name": "Recruitee",
+          "sites": [
+            "recruitee.com"
+          ]
+        },
+        {
+          "name": "Teamtailor",
+          "sites": [
+            "teamtailor.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "enterprise-ats",
+      "tier": 2,
+      "cadence": "broad-search",
+      "platforms": [
+        {
+          "name": "Workday",
+          "sites": [
+            "myworkdayjobs.com"
+          ]
+        },
+        {
+          "name": "iCIMS",
+          "sites": [
+            "careers.icims.com"
+          ],
+          "xray_sites": [
+            "careers.icims.com",
+            "icims.com"
+          ]
+        },
+        {
+          "name": "Jobvite",
+          "sites": [
+            "jobs.jobvite.com"
+          ],
+          "xray_sites": [
+            "jobs.jobvite.com"
+          ]
+        },
+        {
+          "name": "SuccessFactors",
+          "sites": [
+            "successfactors.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "small-company-ats",
+      "tier": 2,
+      "cadence": "broad-search",
+      "platforms": [
+        {
+          "name": "BambooHR",
+          "sites": [
+            "bamboohr.com"
+          ],
+          "xray_sites": [
+            "jobs.bamboohr.com",
+            "bamboohr.com"
+          ]
+        },
+        {
+          "name": "JazzHR",
+          "sites": [
+            "applytojob.com",
+            "jazz.co"
+          ],
+          "xray_sites": [
+            "apply.jazz.co",
+            "applytojob.com"
+          ]
+        },
+        {
+          "name": "Manatal",
+          "sites": [
+            "careers-page.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "regional-ats",
+      "tier": 2,
+      "cadence": "broad-search",
+      "platforms": [
+        {
+          "name": "Personio",
+          "sites": [
+            "personio.de",
+            "personio.com"
+          ]
+        },
+        {
+          "name": "HRMOS",
+          "sites": [
+            "hrmos.co"
+          ]
+        }
+      ]
+    }
+  ],
+  "lane_filters": {
+    "turkey-remote": {
+      "locations": [
+        "Turkey",
+        "Turkiye",
+        "Istanbul"
+      ],
+      "mobility": [
+        "remote",
+        "contractor"
+      ]
+    },
+    "germany-relocation": {
+      "locations": [
+        "Germany",
+        "Berlin"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "relocation"
+      ]
+    },
+    "spain-relocation": {
+      "locations": [
+        "Spain",
+        "Barcelona",
+        "Madrid"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "relocation"
+      ]
+    },
+    "netherlands-relocation": {
+      "locations": [
+        "Netherlands",
+        "Amsterdam"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "relocation"
+      ]
+    },
+    "belgium-relocation": {
+      "locations": [
+        "Belgium",
+        "Brussels"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "relocation"
+      ]
+    },
+    "uk-relocation": {
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "Skilled Worker"
+      ]
+    },
+    "japan-relocation": {
+      "locations": [
+        "Japan",
+        "Tokyo"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "apply from abroad"
+      ]
+    },
+    "new-zealand": {
+      "locations": [
+        "New Zealand",
+        "Auckland"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "AEWV"
+      ]
+    },
+    "australia-relocation": {
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "482 visa"
+      ]
+    },
+    "gulf-cyprus-relocation": {
+      "locations": [
+        "Dubai",
+        "UAE",
+        "Cyprus",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "mobility": [
+        "visa sponsorship",
+        "relocation"
+      ]
+    },
+    "worldwide-contract": {
+      "locations": [],
+      "mobility": [
+        "worldwide",
+        "global remote",
+        "international contractor"
+      ]
+    },
+    "global": {
+      "locations": [],
+      "mobility": [
+        "visa sponsorship",
+        "relocation",
+        "worldwide"
+      ]
+    }
+  }
+}

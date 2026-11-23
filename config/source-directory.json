@@ -1,0 +1,1642 @@
+[
+  {
+    "name": "LinkedIn Jobs",
+    "url": "https://www.linkedin.com/jobs/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "LinkedIn Hiring Posts",
+    "url": "https://www.linkedin.com/search/results/content/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Glassdoor",
+    "url": "https://www.glassdoor.com/Job/index.htm",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Arbeitnow",
+    "url": "https://www.arbeitnow.com/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Djinni",
+    "url": "https://djinni.co/jobs/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Indeed",
+    "url": "https://www.indeed.com/worldwide",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Kariyer.net",
+    "url": "https://www.kariyer.net/is-ilanlari",
+    "group": "Public job boards",
+    "lanes": [
+      "turkey-remote"
+    ]
+  },
+  {
+    "name": "Indeed Turkey",
+    "url": "https://tr.indeed.com/",
+    "group": "Public job boards",
+    "lanes": [
+      "turkey-remote"
+    ]
+  },
+  {
+    "name": "Yenibiris",
+    "url": "https://www.yenibiris.com/",
+    "group": "Public job boards",
+    "lanes": [
+      "turkey-remote"
+    ]
+  },
+  {
+    "name": "Secretcv",
+    "url": "https://www.secretcv.com/",
+    "group": "Public job boards",
+    "lanes": [
+      "turkey-remote"
+    ]
+  },
+  {
+    "name": "EuroBrussels",
+    "url": "https://www.eurobrussels.com/",
+    "group": "Public job boards",
+    "lanes": [
+      "belgium-relocation"
+    ]
+  },
+  {
+    "name": "Marketing Week Jobs",
+    "url": "https://jobs.marketingweek.com/",
+    "group": "Public job boards",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Work for Good",
+    "url": "https://www.workforgood.org/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Idealist",
+    "url": "https://www.idealist.org/en/jobs",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Mediabistro",
+    "url": "https://www.mediabistro.com/jobs",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Creativepool Jobs",
+    "url": "https://creativepool.com/jobs/",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Behance Jobs",
+    "url": "https://www.behance.net/joblist",
+    "group": "Public job boards",
+    "lanes": []
+  },
+  {
+    "name": "Germany",
+    "url": "https://de.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "United Kingdom",
+    "url": "https://uk.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Denmark",
+    "url": "https://dk.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Spain",
+    "url": "https://es.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "France",
+    "url": "https://fr.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Poland",
+    "url": "https://pl.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "United Arab Emirates",
+    "url": "https://ae.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Australia",
+    "url": "https://au.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Canada",
+    "url": "https://ca.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Japan",
+    "url": "https://jp.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Netherlands",
+    "url": "https://nl.indeed.com/",
+    "group": "Indeed: High-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Ireland",
+    "url": "https://ie.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Belgium",
+    "url": "https://be.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Austria",
+    "url": "https://at.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Portugal",
+    "url": "https://pt.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Italy",
+    "url": "https://it.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Luxembourg",
+    "url": "https://lu.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Switzerland",
+    "url": "https://ch.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - New Zealand",
+    "url": "https://nz.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Singapore",
+    "url": "https://sg.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Malaysia",
+    "url": "https://my.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Twice weekly - Hong Kong",
+    "url": "https://hk.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Sweden",
+    "url": "https://se.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Norway",
+    "url": "https://no.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Finland",
+    "url": "https://fi.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Czechia",
+    "url": "https://cz.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Hungary",
+    "url": "https://hu.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Romania",
+    "url": "https://ro.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Greece",
+    "url": "https://gr.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Saudi Arabia",
+    "url": "https://sa.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Qatar",
+    "url": "https://qa.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Bahrain",
+    "url": "https://bh.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - Oman",
+    "url": "https://om.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Weekly - South Africa",
+    "url": "https://za.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Israel",
+    "url": "https://il.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - South Korea",
+    "url": "https://kr.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Taiwan",
+    "url": "https://tw.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Brazil",
+    "url": "https://br.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Mexico",
+    "url": "https://mx.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Argentina",
+    "url": "https://ar.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Chile",
+    "url": "https://cl.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Colombia",
+    "url": "https://co.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - India",
+    "url": "https://in.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Indonesia",
+    "url": "https://id.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Philippines",
+    "url": "https://ph.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Monthly only - Thailand",
+    "url": "https://th.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Normally skip",
+    "url": "https://www.indeed.com/",
+    "group": "Indeed: Secondary and Low-Yield Domains",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - Germany",
+    "url": "https://www.glassdoor.de/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - United Kingdom",
+    "url": "https://www.glassdoor.co.uk/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - France",
+    "url": "https://www.glassdoor.fr/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - Netherlands",
+    "url": "https://www.glassdoor.nl/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - Canada",
+    "url": "https://www.glassdoor.ca/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - Australia",
+    "url": "https://www.glassdoor.com.au/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check three times weekly - New Zealand",
+    "url": "https://www.glassdoor.co.nz/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Spain",
+    "url": "https://www.glassdoor.es/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Ireland",
+    "url": "https://www.glassdoor.ie/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Austria",
+    "url": "https://www.glassdoor.at/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Italy",
+    "url": "https://www.glassdoor.it/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Singapore",
+    "url": "https://www.glassdoor.sg/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Dedicated domains, check weekly - Hong Kong",
+    "url": "https://www.glassdoor.com.hk/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Localized redirect - Switzerland",
+    "url": "https://de.glassdoor.ch/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Localized redirect - Belgium",
+    "url": "https://nl.glassdoor.be/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Use global Glassdoor with a location filter",
+    "url": "https://www.glassdoor.com/",
+    "group": "Glassdoor: Country Routes",
+    "lanes": []
+  },
+  {
+    "name": "Relocate.me",
+    "url": "https://relocate.me/international-jobs",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "The Global Move",
+    "url": "https://globalmove.relocate.me/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Relocantly",
+    "url": "https://relocantly.com/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Japan Dev relocation jobs",
+    "url": "https://japan-dev.com/japan-jobs-relocation",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "TokyoDev",
+    "url": "https://www.tokyodev.com/jobs",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "GermanTechJobs visa sponsorship",
+    "url": "https://germantechjobs.de/with-visa-sponsorship",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Arbeitnow visa sponsorship",
+    "url": "https://www.arbeitnow.com/visa-sponsorship-jobs",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Pegel Berlin",
+    "url": "https://pegel.berlin/berlin-visa-sponsorship-jobs",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "SwissDevJobs visa sponsorship",
+    "url": "https://swissdevjobs.ch/with-visa-sponsorship",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "ITSync Netherlands",
+    "url": "https://www.itsync.nl/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Landing.Jobs",
+    "url": "https://landing.jobs/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "IND Sponsors Jobs",
+    "url": "https://indsponsors.nl/jobs",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "VisaHunt",
+    "url": "https://www.visa-hunt.com/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Noborders",
+    "url": "https://www.noborders.io/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Wantapply",
+    "url": "https://wantapply.com/",
+    "group": "Priority A: Dedicated Sponsorship or Relocation Sources",
+    "lanes": []
+  },
+  {
+    "name": "Jaabz",
+    "url": "https://jaabz.com/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Workbeyond",
+    "url": "https://www.workbeyond.com/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "VisaJobs.xyz",
+    "url": "https://visajobs.xyz/visa-sponsored-jobs/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "The Stack Jobs",
+    "url": "https://jobs.trythestack.co/companies",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "DevITJobs Netherlands",
+    "url": "https://devitjobs.nl/en/with-visa-sponsorship",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "DevITJobs UK",
+    "url": "https://devitjobs.uk/with-visa-sponsorship",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "DEVjobs.at",
+    "url": "https://en.devjobs.at/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "CV.ee",
+    "url": "https://www.cv.ee/en",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Hacker News: Who Is Hiring",
+    "url": "https://news.ycombinator.com/submitted",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "SEEK New Zealand",
+    "url": "https://www.seek.co.nz/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Jora New Zealand",
+    "url": "https://nz.jora.com/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "New Zealand accredited employer list",
+    "url": "https://www.immigration.govt.nz/work/requirements-for-work-visas/approved-employers/accredited-employer-list/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "New Zealand Green List",
+    "url": "https://www.immigration.govt.nz/opsmanual/89117.htm",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Visa Sponsor Jobs",
+    "url": "https://visasponsor.jobs/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Relocue",
+    "url": "https://relocue.com/",
+    "group": "Priority B: Broader Sponsorship Aggregators",
+    "lanes": []
+  },
+  {
+    "name": "Hays Technology",
+    "url": "https://www.hays.co.uk/jobs",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "visa FAQ",
+    "url": "https://www.hays.co.uk/faqs/customer-services",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Robert Walters Technology",
+    "url": "https://www.robertwalters.co.uk/expertise/technology/jobs.html",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "International Career Management",
+    "url": "https://www.robertwalters.co.uk/candidates/international-career-management.html",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Reed jobs",
+    "url": "https://www.reed.co.uk/jobs",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Reed Technology",
+    "url": "https://www.reed.com/employers/technology-it-recruitment",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Michael Page Technology",
+    "url": "https://www.michaelpage.co.uk/recruitment-expertise/technology",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "candidate hub",
+    "url": "https://www.michaelpage.co.uk/candidates",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "MCK Global",
+    "url": "https://mck-global.com/current-vacancies/",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "candidate page",
+    "url": "https://mck-global.com/candidates/",
+    "group": "UK Generalist Recruitment Agencies",
+    "lanes": [
+      "uk-relocation"
+    ]
+  },
+  {
+    "name": "Make it in Germany job listings",
+    "url": "https://www.make-it-in-germany.com/en/working-in-germany/job-listings",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "Work in Finland",
+    "url": "https://www.workinfinland.com/en/open-jobs/",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "Work in Estonia",
+    "url": "https://workinestonia.com/job/",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "Workindenmark",
+    "url": "https://www.workindenmark.dk/",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "EURES",
+    "url": "https://eures.europa.eu/index_en",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "JobsIreland",
+    "url": "https://jobsireland.ie/",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "Official Dutch recognised-sponsor register",
+    "url": "https://ind.nl/en/public-register-recognised-sponsors/public-register-work",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "Official UK licensed-sponsor register",
+    "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "EU Talent Pool",
+    "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/work/eu-talent-pool_en",
+    "group": "Official and Government-Backed International Talent Portals",
+    "lanes": []
+  },
+  {
+    "name": "ABOUT YOU / SCAYLE - SCAYLE careers",
+    "url": "https://www.scayle.com/company/career/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "ABOUT YOU / SCAYLE - open positions",
+    "url": "https://corporate.aboutyou.de/en/career/jobs",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Kaufland e-commerce",
+    "url": "https://kaufland-ecommerce.com/karriere/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Pango",
+    "url": "https://pango.ai/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Scope AI",
+    "url": "https://jobs.ashbyhq.com/getscope",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Insify",
+    "url": "https://jobs.lever.co/insify",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Greentube / Funstage",
+    "url": "https://careers.greentube.com/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Bolt",
+    "url": "https://bolt.eu/en/careers/teams/engineering/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "N26",
+    "url": "https://n26.com/en-eu/careers/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "TourRadar",
+    "url": "https://www.tourradar.com/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Mapon",
+    "url": "https://www.mapon.com/company/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Crescent Consulting",
+    "url": "https://www.seek.co.nz/Crescent-Consulting-jobs",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Halter",
+    "url": "https://jobs.ashbyhq.com/halter",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Propellerhead - Official Lever board",
+    "url": "https://jobs.lever.co/propellerhead",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Propellerhead - relocation information",
+    "url": "https://www.workingforpropellerhead.co.nz/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Seequent",
+    "url": "https://www.seequent.com/company/careers/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "SiteHost",
+    "url": "https://sitehost.nz/about/careers/developers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Future of Hotel Bookings",
+    "url": "https://jobs.ashbyhq.com/future-of-hotel-bookings",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "FxPro - Official careers",
+    "url": "https://www.fxpro.com/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "FxPro - BambooHR board",
+    "url": "https://fxpro.bamboohr.com/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Statista",
+    "url": "https://jobs.ashbyhq.com/statista",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "AMBOSS",
+    "url": "https://careers.amboss.com/departments/engineering-product/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "KWAN",
+    "url": "https://www.kwan.com/open-jobs",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "WOVN",
+    "url": "https://www.tokyodev.com/companies/wovn",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Ziina",
+    "url": "https://jobs.ashbyhq.com/ziina",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Property Finder",
+    "url": "https://www.propertyfinder.com/careers/jobs/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Wheely",
+    "url": "https://job-boards.greenhouse.io/wheely",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Strathwill",
+    "url": "https://wellfound.com/company/strathwill/jobs",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "SQLI",
+    "url": "https://careers.smartrecruiters.com/SQLI1",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Uplane",
+    "url": "https://jobs.ashbyhq.com/uplane",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Mayflower",
+    "url": "https://offer.mayflower.work/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Proton.ai",
+    "url": "https://job-boards.greenhouse.io/protonai",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Laine",
+    "url": "https://www.linkedin.com/company/laine-ai/jobs/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "n8n",
+    "url": "https://jobs.ashbyhq.com/n8n",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Doctolib",
+    "url": "https://job-boards.greenhouse.io/doctolib",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Redcare Pharmacy",
+    "url": "https://www.redcare-pharmacy.com/careers/open-jobs/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Checkly",
+    "url": "https://jobs.ashbyhq.com/checkly",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "HENNGE",
+    "url": "https://www.tokyodev.com/companies/hennge",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Snappymob",
+    "url": "https://careers.snappymob.com/jobs",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Wypoon Technologies",
+    "url": "https://jobs.lever.co/wypoon",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Ruya AI",
+    "url": "https://job-boards.eu.greenhouse.io/ruyaai",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Hack The Box",
+    "url": "https://apply.workable.com/hack-the-box-ltd/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Plasma",
+    "url": "https://jobs.ashbyhq.com/plasma",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Air Apps",
+    "url": "https://jobs.ashbyhq.com/airapps",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "akeno",
+    "url": "https://www.akeno.ai/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "BrainRocket",
+    "url": "https://job-boards.eu.greenhouse.io/brainrocketltd",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "OpusClip",
+    "url": "https://jobs.ashbyhq.com/opusclip",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Eupry",
+    "url": "https://apply.workable.com/eupry-aps/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Peter Park",
+    "url": "https://peter-park.jobs.personio.com/",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Silence Laboratories",
+    "url": "https://silencelaboratories.com/careers",
+    "group": "Direct Relocation Company Boards to Monitor",
+    "lanes": []
+  },
+  {
+    "name": "Real Work From Anywhere",
+    "url": "https://www.realworkfromanywhere.com/remote-software-developer-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Remote Jobs Global",
+    "url": "https://remotejobsglobal.com/",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Remotive",
+    "url": "https://remotive.com/remote-turkey-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Jobgether",
+    "url": "https://jobgether.com/search-offers",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Remote OK",
+    "url": "https://remoteok.com/remote-dev-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Himalayas",
+    "url": "https://himalayas.app/jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "We Work Remotely",
+    "url": "https://weworkremotely.com/100-percent-remote-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Jobicy",
+    "url": "https://jobicy.com/jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Working Nomads",
+    "url": "https://www.workingnomads.com/remote-anywhere-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Arc",
+    "url": "https://arc.dev/talent",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Wellfound",
+    "url": "https://wellfound.com/jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "Truly Remote Work",
+    "url": "https://trulyremotework.com/remote-typescript-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "REIZ TECH",
+    "url": "https://reiztech.recruitee.com/all-jobs",
+    "group": "Priority A: Explicit Worldwide or Country Filters",
+    "lanes": []
+  },
+  {
+    "name": "NoDesk",
+    "url": "https://nodesk.co/remote-jobs/",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Dynamite Jobs",
+    "url": "https://dynamitejobs.com/remote-jobs",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Remote.co",
+    "url": "https://remote.co/remote-jobs/developer",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Working Nomads",
+    "url": "https://www.workingnomads.com/remote-development-jobs",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Work at a Startup (Y Combinator)",
+    "url": "https://www.workatastartup.com/jobs",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "SmartRecruiters Job Search",
+    "url": "https://jobs.smartrecruiters.com/",
+    "group": "Priority B: Useful Remote Boards With More Manual Checking",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Toptal",
+    "url": "https://www.toptal.com/talent/apply",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Lemon.io",
+    "url": "https://lemon.io/for-developers/",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Proxify",
+    "url": "https://career.proxify.io/",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Crossover",
+    "url": "https://www.crossover.com/jobs",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Turing",
+    "url": "https://www.turing.com/jobs",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Upwork",
+    "url": "https://www.upwork.com/nx/find-work/",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "LaraCopilot Partner Network",
+    "url": "https://laracopilot.com/partners/individual/",
+    "group": "Vetted Remote Talent Networks and Contract Platforms",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "LaraJobs",
+    "url": "https://larajobs.com/",
+    "group": "Exact-Stack Ecosystem Sources",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Laravel official careers",
+    "url": "https://laravel.com/careers",
+    "group": "Exact-Stack Ecosystem Sources",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Laravel partners",
+    "url": "https://partners.laravel.com/",
+    "group": "Exact-Stack Ecosystem Sources",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "DOU",
+    "url": "https://jobs.dou.ua/vacancies/",
+    "group": "Exact-Stack Ecosystem Sources",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "JOBS.GE",
+    "url": "https://jobs.ge/",
+    "group": "Exact-Stack Ecosystem Sources",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "DropinAdmin",
+    "url": "https://dropinadmin.com/careers",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "GetCode - DOU company page",
+    "url": "https://jobs.dou.ua/companies/getcode/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "GetCode - website",
+    "url": "https://get-code.net/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "IT Delight",
+    "url": "https://jobs.dou.ua/companies/it-delight/vacancies/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Mobilunity",
+    "url": "https://jobs.dou.ua/companies/mobilunity/vacancies/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Kirschbaum Development",
+    "url": "https://kirschbaumdevelopment.com/careers",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Curotec",
+    "url": "https://curotec.recruitee.com/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Redberry",
+    "url": "https://redberry.international/",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "UPDIVISION",
+    "url": "https://updivision.com/careers/fullstack-web-developer-laravel-apis-vuejs",
+    "group": "Exact-Stack Agencies and Contract Employers to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Canonical",
+    "url": "https://canonical.com/careers/all",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "url": "https://about.gitlab.com/jobs/all-jobs/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Automattic",
+    "url": "https://automattic.com/work-with-us/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Sourcegraph",
+    "url": "https://sourcegraph.com/careers",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Supabase",
+    "url": "https://supabase.com/careers",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Polar Analytics",
+    "url": "https://jobs.ashbyhq.com/polaranalytics",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Tradeify",
+    "url": "https://jobs.ashbyhq.com/tradeify",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Camunda - Open roles",
+    "url": "https://camunda.com/career/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Camunda - Ashby board",
+    "url": "https://jobs.ashbyhq.com/camunda",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "CloudLinux",
+    "url": "https://www.cloudlinux.com/about-us-company-jobs/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Remote",
+    "url": "https://remote.com/openings",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Deel",
+    "url": "https://www.deel.com/careers/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Airalo",
+    "url": "https://www.airalo.com/airalo-careers/job-vacancies",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Kinsta",
+    "url": "https://kinsta.com/careers/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/hiring",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Pragmatike",
+    "url": "https://jobs.ashbyhq.com/pragmatike",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Bright Data",
+    "url": "https://brightdata.com/careers",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Fueled",
+    "url": "https://job-boards.greenhouse.io/fueledcareers",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "VidRush",
+    "url": "https://jobs.ashbyhq.com/vidrush",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Piece",
+    "url": "https://www.tokyodev.com/companies/piece/jobs/full-stack-developer",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "MailerLite",
+    "url": "https://www.mailerlite.com/jobs",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Sporty Group",
+    "url": "https://job-boards.greenhouse.io/sportygroup",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "ThirstySprout",
+    "url": "https://jobs.ashbyhq.com/thirstysprout",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "VRChat",
+    "url": "https://jobs.lever.co/vrchat",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "ScholarshipOwl",
+    "url": "https://careers.scholarshipowl.com/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Railway",
+    "url": "https://railway.com/careers",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "WorkHero",
+    "url": "https://jobs.ashbyhq.com/workhero",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "This Dot Labs",
+    "url": "https://www.thisdot.co/jobs",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "We The Flywheel",
+    "url": "https://wetheflywheel.com/en/careers/",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  },
+  {
+    "name": "Utility Profit",
+    "url": "https://job-boards.greenhouse.io/utilityprofit",
+    "group": "Direct Global-Remote Company Boards to Monitor",
+    "lanes": [
+      "worldwide-contract"
+    ]
+  }
+]

@@ -1,10 +1,27 @@
 {
   "confirmed": false,
   "target_titles": ["Executive Assistant", "Executive Business Partner"],
+  "title_aliases": ["Executive Coordinator"],
+  "excluded_titles": [],
   "search_terms": ["executive support", "calendar management"],
   "search_locations": ["London", "United Kingdom"],
+  "selected_lanes": ["uk-relocation"],
+  "markets": {
+    "uk-relocation": {
+      "countries": ["gb"],
+      "locations": ["London"],
+      "mobility": []
+    }
+  },
+  "require_sponsorship": false,
+  "default_days": 7,
+  "result_limit": 10,
   "work_preferences": ["hybrid", "full-time"],
+  "working_languages": [],
+  "work_authorization": {},
+  "salary": {},
   "hard_constraints": [],
   "evidence": [],
-  "boards": []
+  "boards": [],
+  "disabled_sources": []
 }

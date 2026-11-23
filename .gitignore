@@ -1,4 +1,11 @@
 /.local/
+/.cache/
+/state/
+/applications/
+/output/
+/resumes/
+/interviews/
+/tmp/
 /.env
 /.env.*
 __pycache__/

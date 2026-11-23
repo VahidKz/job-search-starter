@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/ai-job-search-dev/ai-job-search",
+  "revision": "7f01d752516d955a694271f75ee5534bc344873a",
+  "normalization": "LF line endings",
+  "sha256": {
+    "tools/posting_guard.py": "b9068ee60753f3108f42a20abbda24d7dc14149de988087d16575e7d7f57256c",
+    "tools/page_decode.py": "34c124517ae4684837227b7dd70f70ee699d3d57c43e4f86ce14fec43804c7c0",
+    "tools/verify_pdf.py": "0a18c089744a85a2c18a79dda002db8e4db91feff3bdd7db65c83685997989a2",
+    "LICENSE": "accbf0accb87b7b905dd7ee0c7013075f0453637acf354ddae6fc0e4d8282e8e"
+  }
+}

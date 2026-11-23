@@ -5,36 +5,34 @@ You don't need to fill out a form or run commands. Share a resume in chat or
 point the agent to a local file only if you want it to read one.
 
 The agent interviews you, confirms your criteria, and searches for roles.
-You can then say **"Find new roles since the last search"** or **"Check this
-posting against my profile."** No accounts, API keys, or paid services are
-required by the included tools. Live web search requires an agent with web
-access or access to supported public employer boards.
+Then say **"Do a full search for the last seven days"** or **"Find new roles
+since the last search."** Works for executive support, marketing, content,
+engineering, and other roles; there is no default profession.
 
 ## Agent Reference
 
-Read [AGENTS.md](AGENTS.md) for the interview, verification and reporting
-workflow. The example [profile](examples/profile.json) is fictional. Save
-confirmed settings to `.local/profile.json`, not over the example.
-The repository supports any job family: no built-in engineering, marketing
-or geography preference. Public inputs are only search keywords and employer
-board identifiers. Private resumes, preferences, and history stay in
-`.local/` or outside the repo; the CLI never loads a resume.
+Read [AGENTS.md](AGENTS.md) for intake and [the operator guide](docs/operator.md)
+for features, configuration, and differences between automated and manual
+coverage. The [example profile](examples/profile.json) is fictional. Save the
+confirmed profile, resumes, reports, and history in ignored `.local/`.
 
-Python 3.10+; standard library only:
+The rotation includes a public source directory, country and remote lanes,
+direct ATS boards, FreeHire, public feeds, a Job Radar bridge, multi-ATS web
+search, and separate LinkedIn Jobs and public hiring-post routes. It also
+includes sponsor-register checks, deduplication, an evidence-backed review
+queue, and an optional OpenCode/Kilo discovery worker. The agent completes
+manual checks and verifies listings. No scraper provides exhaustive
+LinkedIn, Indeed, Glassdoor, or other restricted-site coverage.
 
 ```sh
-python job_search.py plan
-python job_search.py scan --days 14
+python automation/run_rotation.py --list
+python automation/run_rotation.py --broad --days 7
+python automation/run_rotation.py --execute --broad --days 7
 python -m unittest discover -s tests
 ```
 
-`plan` emits plain search queries for the agent's web tool. `scan` checks
-user-selected public Ashby, Greenhouse and Lever employer boards. Configure
-their board slugs under `boards` after finding official careers pages. Save
-results with `--output .local/leads.json` or read them from stdout. Board
-results are **unverified leads**; location, salary, language, and permission
-to work are never inferred by the CLI. An empty board list is reported as
-not configured, not as zero jobs in the market.
-
-This is a standalone starter, not a hosted job board, application service,
-or a complete clone of any personal workspace.
+Python 3.10+ for the core. Job Radar, Brave Search, and external model workers
+are optional and require their own setup. No service is contacted in plan-only
+mode. The original small `job_search.py` CLI remains a quick-start tool; use
+the rotation for full scans. This repository does not apply for jobs or send
+messages on the user's behalf.
